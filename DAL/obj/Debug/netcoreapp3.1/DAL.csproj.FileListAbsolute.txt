@@ -1,0 +1,15 @@
+C:\NTierLogin\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\NTierLogin\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\NTierLogin\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\NTierLogin\DAL\bin\Debug\netcoreapp3.1\Model.dll
+C:\NTierLogin\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+C:\NTierLogin\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\NTierLogin\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\NTierLogin\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\NTierLogin\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\NTierLogin\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\NTierLogin\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\NTierLogin\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\NTierLogin\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\NTierLogin\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\NTierLogin\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

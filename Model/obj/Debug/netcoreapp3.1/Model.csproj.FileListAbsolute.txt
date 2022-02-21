@@ -1,0 +1,11 @@
+C:\NTierLogin\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\NTierLogin\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\NTierLogin\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\NTierLogin\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\NTierLogin\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\NTierLogin\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\NTierLogin\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\NTierLogin\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\NTierLogin\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
+C:\NTierLogin\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
+C:\NTierLogin\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache

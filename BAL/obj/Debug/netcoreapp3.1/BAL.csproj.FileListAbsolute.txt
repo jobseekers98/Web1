@@ -1,0 +1,14 @@
+C:\NTierLogin\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+C:\NTierLogin\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+C:\NTierLogin\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+C:\NTierLogin\BAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\NTierLogin\BAL\bin\Debug\netcoreapp3.1\Model.dll
+C:\NTierLogin\BAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\NTierLogin\BAL\bin\Debug\netcoreapp3.1\Model.pdb
+C:\NTierLogin\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.AssemblyReference.cache
+C:\NTierLogin\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+C:\NTierLogin\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+C:\NTierLogin\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+C:\NTierLogin\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+C:\NTierLogin\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+C:\NTierLogin\BAL\obj\Debug\netcoreapp3.1\BAL.pdb
